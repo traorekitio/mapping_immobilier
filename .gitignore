@@ -20,3 +20,8 @@ env/
 # Fichiers temporaires
 *.tmp
 .cache/
+
+# IDE
+.idea/
+*.swp
+*.swo
