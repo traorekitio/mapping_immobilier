@@ -1,0 +1,22 @@
+# Dossiers de sortie
+output/
+
+# Fichiers Python compilés
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Fichiers temporaires
+*.tmp
+.cache/
